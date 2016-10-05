@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AM</string>
+    <string name="lblTituloIMC">Cálculo do IMC</string>
+    <string name="lblPeso">Peso: </string>
+    <string name="lblAltura">Altura: </string>
+    <string name="btnCalcularImc">Calcular IMC</string>
+    <string name="btnBatimentos">Monitorar Batimentos</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="lblLogo">Cuida de Mim</string>
+    <string name="lblSair">Sair</string>
+    <string name="lblBatimentos">Batimentos</string>
+</resources>
